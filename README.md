@@ -1,33 +1,38 @@
-## 😏 ¡Hola mundo! Soy Angel SaaS 👋  
+## Ángel SaaS  
 
-✨ Bienvenido a mi espacio en GitHub, donde el código es 🔥 y los bugs… bueno, ellos también me aman, pero los domo con estilo.  
-
----
-
-### 💻 Sobre mí  
-🚀 **Desarrollador Full Stack** con un toque de magia en **React + TypeScript** y backend en **PHP con MariaDB**.  
-🎨 **Diseñador de experiencias** para que tus ojos gocen y tu código fluya.  
-🛠 **Amante de la arquitectura limpia** y la seguridad en el desarrollo.  
+Bienvenido a mi repositorio. Desarrollo software con un enfoque en rendimiento, escalabilidad y buenas prácticas.  
 
 ---
 
-### 🚀 Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,php,mysql,tailwind,git,linux)](https://skillicons.dev)  
+### Sobre mí  
+
+- **Full Stack Developer** con experiencia en **React, TypeScript, PHP y MariaDB**.  
+- Enfocado en **arquitectura limpia**, **seguridad** y **desarrollo escalable**.  
+- Apasionado por crear interfaces intuitivas y sistemas eficientes.  
+- Interesado en nuevas tecnologías y mejores prácticas en el desarrollo web.  
 
 ---
 
-### 🍷 ¿Buscas colaborar?  
-Si quieres código elegante y soluciones que seduzcan al usuario, **desliza a la derecha** 👉💖  
-📩 **Contáctame:** [LinkedIn](#) | [Twitter](#) | [Correo](#)  
+### Tecnologías  
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,php,mysql,tailwind,git,linux,docker)](https://skillicons.dev)  
 
 ---
 
-### 🤔 Random Facts  
-⚡ Código rápido, café fuerte y diseño sexy.  
-🔥 Los bugs me temen (o al menos eso me digo).  
-💡 Mi mente corre a 120 FPS, pero mi Internet a 10 Mbps.  
+### Proyectos Destacados  
+
+- **[Sistema de Gestión para Barbería](#)**: Plataforma para agendar citas y administrar servicios.  
+- **[Organigrama Coffee Block](#)**: Estructura jerárquica de la empresa.  
+- **[Componentes UI para Tablas y Modales](#)**: Optimización de interacciones con Material-UI y TypeScript.  
 
 ---
 
-_Si has llegado hasta aquí, es porque te gusta el buen código… o las buenas descripciones 😏._  
-**Dale una estrella ⭐ a mis repos, y hagamos magia juntos.**  
+### Contacto  
+
+Si estás interesado en colaborar o discutir ideas, puedes contactarme en:  
+
+- LinkedIn: [Tu Perfil](#)  
+- Correo: [Tu Email](#)  
+- Portfolio: [Tu Página](#)  
+
+Siempre abierto a nuevos retos y oportunidades.  
