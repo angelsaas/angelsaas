@@ -18,6 +18,8 @@ Comprometido con el desarrollo escalable, eficiente y seguro.
 
 ### 📊 Skills Overview  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelggmz&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
 | Technology  | Skill Level |
 |------------|------------|
 | **TypeScript** | 🟢🟢🟢🟢🟢 90% |
