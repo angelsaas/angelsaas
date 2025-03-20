@@ -1,55 +1,47 @@
-## 🌍 Ángel SaaS | Full Stack Developer  
+## 🌍 Ángel SaaS | Desarrollador Full Stack
 
-Passionate **Full Stack Developer** with expertise in **React, TypeScript, and TailwindCSS**.  
-Experienced in **backend development with PHP & MariaDB** and **API testing with Postman & MongoDB**.  
-Committed to building scalable, efficient, and secure applications.  
-
-Desarrollador Full Stack con experiencia en **React, TypeScript y TailwindCSS**.  
-Manejo de **backend con PHP y bases de datos en MariaDB y MongoDB**.  
-Comprometido con el desarrollo escalable, eficiente y seguro.  
+Apasionado **Desarrollador Full Stack** con experiencia en **React, TypeScript y TailwindCSS**.  
+Experto en **desarrollo backend con PHP y MariaDB** y en **pruebas de API con Postman y MongoDB**.  
+Comprometido con la construcción de aplicaciones escalables, eficientes y seguras.
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwind,php,mysql,mongodb,postman,nodejs,angular,git,python,js,cs)](https://skillicons.dev)  
+[![Mis Habilidades](https://skillicons.dev/icons?i=react,typescript,tailwind,php,mysql,mongodb,postman,nodejs,angular,git,python,js,cs)](https://skillicons.dev)
 
 ---
 
-### 📊 Skills Overview  
+### 📊 Resumen de Habilidades
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsaas&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsaas&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-| Technology  | Skill Level |
-|------------|------------|
+| Tecnología   | Nivel de Habilidad |
+|--------------|--------------------|
 | **TypeScript** | 🟢🟢🟢🟢🟢 90% |
 | **JavaScript** | 🟢🟢🟢🟢⚪ 80% |
-| **PHP** | 🟢🟢🟢⚪⚪ 60% |
-| **Angular** | 🟢🟢🟢⚪⚪ 60% |
-| **Git** | 🟢🟢🟢⚪⚪ 60% |
-| **Node.js** | 🟢🟢⚪⚪⚪ 40% |
-| **C#** | 🟢🟢⚪⚪⚪ 40% |
-| **Python** | 🟢🟢⚪⚪⚪ 40% |
+| **PHP**        | 🟢🟢🟢⚪⚪ 60% |
+| **Angular**    | 🟢🟢🟢⚪⚪ 60% |
+| **Git**        | 🟢🟢🟢⚪⚪ 60% |
+| **Node.js**    | 🟢🟢⚪⚪⚪ 40% |
+| **C#**         | 🟢🟢⚪⚪⚪ 40% |
+| **Python**     | 🟢🟢⚪⚪⚪ 40% |
 
 ---
 
-### 🚀 Featured Projects | Proyectos Destacados  
+### 🚀 Proyectos Destacados
 
-- **[Barbershop Appointment System](#)** – Web platform for scheduling and managing barber services.  
-- **[Customer Support System](#)** – TSX & TailwindCSS-based support system for seamless client interaction.  
-- **[Custom UI Components](#)** – Optimized UI elements using Material-UI & TypeScript.  
-
-- **[Gestión de Citas para Barberías](#)** – Plataforma web para agendar citas y administrar servicios.  
-- **[Sistema de Soporte](#)** – Aplicación con TSX y TailwindCSS para gestión eficiente de clientes.  
-- **[Componentes UI Personalizados](#)** – Interfaces optimizadas con Material-UI y TypeScript.  
+- **[Sistema de Gestión de Citas para Barberías](#)** – Plataforma web para agendar y gestionar servicios de barbería.
+- **[Sistema de Soporte al Cliente](#)** – Sistema de soporte basado en TSX y TailwindCSS para una interacción fluida con los clientes.
+- **[Componentes UI Personalizados](#)** – Elementos de interfaz optimizados utilizando Material-UI y TypeScript.
+- **[Repositorio de Trabajos](https://github.com/angelsaas/Trabajos)** – Repositorio que contiene diversos proyectos y trabajos desarrollados. :contentReference[oaicite:0]{index=0}
 
 ---
 
-### 📩 Contact  
+### 📩 Contacto
 
-- 📧 Email: [angeljsjsjbdd@gmail.com](mailto:angeljsjsjbdd@gmail.com)  
-- 📸 Instagram: [@angelggmz](https://www.instagram.com/angelggmz)  
-- 🌐 Portfolio: *(Coming soon...)*  
+- 📧 Correo: [angeljsjsjbdd@gmail.com](mailto:angeljsjsjbdd@gmail.com)
+- 📸 Instagram: [@angelggmz](https://www.instagram.com/angelggmz)
+- 🌐 Portafolio: *(Próximamente...)*
 
-Always open to new challenges and collaborations.  
-Siempre abierto a nuevos retos y colaboraciones.  
+Siempre abierto a nuevos retos y colaboraciones.
