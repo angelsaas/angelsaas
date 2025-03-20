@@ -11,6 +11,13 @@ Comprometido con la construcción de aplicaciones escalables, eficientes y segur
 [![Mis Habilidades](https://skillicons.dev/icons?i=react,typescript,tailwind,php,mysql,mongodb,postman,nodejs,angular,git,python,js,cs)](https://skillicons.dev)
 
 ---
+---
+
+### 📈 Estadísticas de GitHub
+
+[![Resumen de actividad](https://github-readme-stats.vercel.app/api?username=angelsaas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### 📊 Resumen de Habilidades
 
